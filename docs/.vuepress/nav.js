@@ -10,12 +10,7 @@ module.exports = [
         ]
     },
     {
-        text: '丁度铭',link:"/baodian/talk/"
-    },
-   
-    {
         text: 'B站首页', link: 'https://space.bilibili.com/145679856',
-
     },
    
 ]

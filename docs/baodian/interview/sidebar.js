@@ -1,6 +1,6 @@
 module.exports = [
   {
-    title: "Web前端面试指南和高频",
+    title: "Web前端",
     collapsable: true,
     children: [
       {title: "HTML", path:"/baodian/interview/notes/HTML"},
